@@ -1,1 +1,1 @@
-# UniversityCoursePlanner
+# proPlan
